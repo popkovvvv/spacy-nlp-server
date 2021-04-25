@@ -1,0 +1,6 @@
+corpus
+packages
+training
+
+# Project exclude paths
+/venv/

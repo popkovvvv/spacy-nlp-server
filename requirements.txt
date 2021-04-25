@@ -1,0 +1,7 @@
+spacy-streamlit>=1.0.0a0
+streamlit
+
+spacy~=3.0.6
+srsly~=2.4.1
+typer~=0.3.2
+setuptools~=56.0.0
