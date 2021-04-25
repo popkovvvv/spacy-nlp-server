@@ -1,6 +1,10 @@
 corpus
 packages
 training
-
+output
+assets/texts-train.jsonl
+assets/texts-valid.jsonl
 # Project exclude paths
 /venv/
+project.lock
+.idea
